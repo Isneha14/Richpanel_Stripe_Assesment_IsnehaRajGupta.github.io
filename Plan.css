@@ -1,0 +1,54 @@
+body{
+    font-family: Helvetica, sans-serif;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+    
+    padding: 8px;
+}
+
+td{
+    color: rgb(103, 99, 99);
+    padding: 50px;
+}
+
+th{
+    background-color: rgb(80, 80, 193);
+    color: white
+}
+
+.headings{
+    border: none;
+    background-color: rgb(80, 80, 193);
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.Next{
+    background-color: rgb(52, 52, 167);
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    opacity: 0.9;
+    border-radius: 7px;
+    font-size: large;
+}
+
+.tocen{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
