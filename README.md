@@ -1,1 +1,0 @@
-# Richpanel_Stripe_Assesment_IsnehaRajGupta.github.io
